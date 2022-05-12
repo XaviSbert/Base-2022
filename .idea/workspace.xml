@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73eb81ce-d440-46df-9db4-2034f5c118ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1y5vH0w3GPP2VzvgwQGhVMhUH15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/mytheme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/mytheme" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/mytheme/scss/3-utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73eb81ce-d440-46df-9db4-2034f5c118ed" name="Changes" comment="" />
+      <created>1631554176742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631554176742</updated>
+      <workItem from="1631554188313" duration="78000" />
+      <workItem from="1631608226844" duration="156000" />
+      <workItem from="1632913427292" duration="14000" />
+      <workItem from="1632913452283" duration="1916000" />
+      <workItem from="1636016065722" duration="91000" />
+      <workItem from="1639148033048" duration="135000" />
+      <workItem from="1639672137601" duration="18000" />
+      <workItem from="1639732986240" duration="1427000" />
+      <workItem from="1639735387297" duration="9000" />
+      <workItem from="1639933335312" duration="2014000" />
+      <workItem from="1639989897218" duration="5226000" />
+      <workItem from="1640011151782" duration="1103000" />
+      <workItem from="1640026318832" duration="545000" />
+      <workItem from="1640072613920" duration="426000" />
+      <workItem from="1640088172683" duration="2723000" />
+      <workItem from="1640092501714" duration="1399000" />
+      <workItem from="1640116310041" duration="1253000" />
+      <workItem from="1640118286969" duration="20000" />
+      <workItem from="1640163998096" duration="39000" />
+      <workItem from="1640523104318" duration="4158000" />
+      <workItem from="1640604973545" duration="2016000" />
+      <workItem from="1640715846426" duration="272000" />
+      <workItem from="1641807000465" duration="47000" />
+      <workItem from="1641807080493" duration="1378000" />
+      <workItem from="1641813625189" duration="440000" />
+      <workItem from="1641836014410" duration="679000" />
+      <workItem from="1646839666478" duration="487000" />
+      <workItem from="1646852506200" duration="186000" />
+      <workItem from="1646853370003" duration="3000" />
+      <workItem from="1647082210573" duration="262000" />
+      <workItem from="1647687069549" duration="686000" />
+      <workItem from="1647771242009" duration="283000" />
+      <workItem from="1647772060459" duration="303000" />
+      <workItem from="1647772509858" duration="1782000" />
+      <workItem from="1647779386718" duration="1893000" />
+      <workItem from="1649272857564" duration="16000" />
+      <workItem from="1650202593741" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
